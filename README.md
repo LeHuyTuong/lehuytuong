@@ -23,24 +23,45 @@
 
 ---
 
-### 💻 Tech Stack
+### 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Servlet-430098?style=flat&logo=apachetomcat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS SQL Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
+#### 🖥️ Core Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Servlet-430098?style=for-the-badge&logo=apachetomcat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
+
+#### 🌐 Frontend + UI
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+#### ⚙️ Dev Tools & Infra
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
+
+#### 🤖 AI/LLM Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-FFD700?style=for-the-badge&logo=openai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC91C?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=vectorworks&logoColor=white"/>
+
+</p>
+
 
 ---
 
