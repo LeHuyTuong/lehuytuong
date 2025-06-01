@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lê Huy Tường</h1>
+<h1 align="center">Hi 👋, I'm Le Huy Tuong</h1>
 <h3 align="center">🚀 Backend Developer | Java + Spring Boot | 🇻🇳 From Vietnam</h3>
 
 - 🔭 I’m currently working on: **Comic Web Platform with auto crawler**
@@ -15,9 +15,6 @@
   </a>
   <a href="https://www.linkedin.com/in/lehuytuong/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:lehuytuong2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -66,12 +63,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lehuytuong&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lehuytuong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehuytuong&layout=compact&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=lehuytuong&theme=onedark&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
 ### 🎯 Quote I Live By
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Build fast. Break things. Ship faster.” – Startup Dev Mentality
+
