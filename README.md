@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Le Huy Tuong</h1>
 <h3 align="center">🚀 Backend Developer | Java + Spring Boot | 🇻🇳 From Vietnam</h3>
 
-- 🔭 I’m currently working on: **Comic Web Platform with auto crawler**
-- 🌱 I’m currently learning: **DevOps, Docker, and Spring Security**
-- 💬 Ask me about: `Java Core`, `Servlet`, `Spring Boot`, `Linux`
+- 🔭 I’m currently working on: **CLASS KhanhKT PRJ301**
+- 🌱 I’m currently learning: **DevOps, Docker ,XML Java**
+- 💬 Ask me about: `Java Core`, `Servlet`, `Linux`
 - 📫 Reach me at: **lehuytuong2005@gmail.com**
 
 ---
