@@ -58,6 +58,12 @@
 
 </p>
 
+#### 🔄 Workflow & Automation
+<p>
+  <img src="https://img.shields.io/badge/n8n-AF2D7F?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cron-000000?style=for-the-badge&logo=cron&logoColor=white"/>
+</p>
+
 
 ---
 
