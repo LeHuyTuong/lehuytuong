@@ -79,5 +79,6 @@
 ---
 
 ### 🎯 Quote I Live By
-> “Build fast. Break things. Ship faster.” – Startup Dev Mentality
+> 🧠 **"Chạy được thì trời cho, còn không được thì là... trò chơi."**  
+> — *Kiều Trọng Khánh*
 
