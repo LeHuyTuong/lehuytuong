@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Le Huy Tuong</h1>
 <h3 align="center">🚀 Backend Developer | Java + Spring Boot | 🇻🇳 From Vietnam</h3>
 
-- 🔭 I’m currently working on: **CLASS KhanhKT PRJ301**
-- 🌱 I’m currently learning: **DevOps, Docker ,XML Java**
+- 🔭 I’m currently working on: **Java Fresher**
+- 🌱 I’m currently learning: **Spring Boot, RAG**
 - 💬 Ask me about: `Java Core`, `Servlet`, `Linux`
 - 📫 Reach me at: **lehuytuong2005@gmail.com**
 
