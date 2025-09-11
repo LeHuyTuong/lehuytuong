@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Le Huy Tuong</h1>
 <h3 align="center">🚀 Backend Developer | Java + Spring Boot | 🇻🇳 From Vietnam</h3>
 
-- 🔭 I’m currently working on: **Java Fresher**
+- 🔭 I’m currently working on: **Train-Ticket-Office && Carbon-Market-Trading**
 - 🌱 I’m currently learning: **Spring Boot, RAG**
 - 💬 Ask me about: `Java Core`, `Servlet`, `Linux`
 - 📫 Reach me at: **lehuytuong2005@gmail.com**
@@ -16,6 +16,11 @@
   <a href="https://www.linkedin.com/in/lehuytuong/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/lehuytuong2005/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
+</a>
+
+  
 </p>
 
 ---
