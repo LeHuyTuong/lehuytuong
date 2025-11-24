@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Backend Developer | Java + Spring Boot | 🇻🇳 From Vietnam</h3>
 
 - 🔭 I’m currently working on: **E-Commerce && E-Learning**
-- 🌱 I’m currently learning: **Spring Boot, RAG**
-- 💬 Ask me about: `Java Core`, `Servlet`, `Linux`
+- 🌱 I’m currently learning: **Spring Boot, ReactJS**
+- 💬 Ask me about: `Java Core`, `Servlet`, `Linux` 
 - 📫 Reach me at: **lehuytuong2005@gmail.com**
 
 ---
